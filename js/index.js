@@ -1,4 +1,5 @@
-const works = [
+
+const works = [ 
     {
         name: "Trese",
         description:
@@ -22,6 +23,19 @@ const works = [
         },
         backgroundColor:
             "#37506e"
+    },
+    {
+        name: "Hunter-X-Hunter",
+        description:
+           ` The story focuses on a young boy named Gon Freecss who discovers that his father, who left him at a young age, is actually a world-renowned Hunter,
+            a licensed professional who specializes in fantastical pursuits such as locating rare or unidentified animal species, treasure hunting, surveying unexplored enclaves, or hunting down lawless individuals.
+            Gon departs on a journey to become a Hunter and eventually find his father. Along the way, Gon meets various other Hunters and encounters the paranormal.`,
+        imageURL: "./images/hunter-x-hunter.jpg",
+        details: {
+            year: 2023
+        },
+        backgroundColor:
+        "#37506e"
     },
 ];
 
